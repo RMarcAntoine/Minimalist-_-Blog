@@ -2,6 +2,8 @@
 git clone https://github.com/nicolas-sanch/correction-2025
 
 cd correction-2025
+code .
+
 cp .env.example .env
 
 docker run --rm --interactive --tty \
