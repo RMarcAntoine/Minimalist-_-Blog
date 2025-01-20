@@ -1,4 +1,4 @@
-Voici comment vous pouvez rédiger le fichier `README.md` en utilisant le format Markdown pour les instructions :
+Voici les instruction pour le TP blog_minimalist :
 
 ```markdown
 # Minimalist Blog - Installation et configuration
