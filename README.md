@@ -18,7 +18,7 @@ git clone https://github.com/RMarcAntoine/Minimalist-_-Blog.git
 Changez de répertoire pour accéder au dossier du projet :
 
 ```bash
-cd correction-2025
+cd Minimalist-_-Blog
 ```
 
 ## 3. Ouvrir le projet dans VS Code
